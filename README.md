@@ -8,6 +8,7 @@ I love solving problems and continuously teaching myself new concepts. I have ye
 
 
 # StayBnb
+![image](https://user-images.githubusercontent.com/102727510/207719124-243faf55-6ba7-424a-9604-930c37a647db.png)
 
 The objective of creating this AirBnb clone is to showcase some of the frontend skills. This is a very early project of mine which taught me the foundations of web design using tools such as flexbox and grid.
 
